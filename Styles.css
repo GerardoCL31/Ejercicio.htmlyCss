@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(125, 125, 238);
+}
+h1{
+    color: rgb(35, 114, 15);
+    font-family: monospace;
+}
+h3{
+color:rgb(183, 224, 116);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    
+    color: rgb(226, 119, 124);
+    font-weight: bold;
+}
+#titulo {
+    color: brown;
+    font-size: x-large;
+    text-decoration:underline;
+}
